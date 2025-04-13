@@ -10,7 +10,7 @@ def main():
     # using the ** operator to raise C to the power of 2
     energy_in_joules: float = mass_in_kg * (C ** 2)
 
-    # Display work to the user
+    # Display work to the user easily
     print("Calculation")
     print("e = m * C^2...")
     print("m = " + str(mass_in_kg) + " kg")

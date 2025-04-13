@@ -7,7 +7,7 @@ def main():
     print("That is", inches, "inches!")
     
     
-# This provided line is required at the end of a Python file
+# This provided line is required at the end of a Pythonfile
 # to call the main() function.
 if __name__ == '__main__':
     main()
